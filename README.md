@@ -5,9 +5,8 @@ Each project = a separate repository or folder.
 
 ---
 
-## 📦 Level 1 — Simple API Projects
-
-- [x] [Todo API](https://github.com/diaszakir/todoapp-golang-gin) 
+## 📦 Level 1 — Simple API + PostgreSQL
+- [x] [Todo API](https://github.com/diaszakir/todoapp-golang-gin)
 - [x] [URL Shortener API](https://github.com/diaszakir/URL-Shortener-API-Go)
 - [x] [Base62](https://github.com/diaszakir/base62-go)
 - [x] [Pastebin API](https://github.com/diaszakir/Pastebin-API)
@@ -15,80 +14,76 @@ Each project = a separate repository or folder.
 - [ ] Notes API with Search
 - [ ] Expense Tracker API
 - [ ] Habit Tracker API
-- [ ] Mini CRM API
-- [ ] Event Scheduler API
-- [ ] Inventory Management API
 - [ ] File Upload API
 
 ---
 
-## 🔐 Level 2 — Auth & Security
+## 🗄 Level 2 — Database Driven Services
+- [ ] Blog Backend API
+- [ ] Comment System
+- [ ] Tagging System
+- [ ] Mini CRM API
+- [ ] Inventory Management API
+- [ ] Event Scheduler API
+- [ ] File Metadata Service
 
+---
+
+## 🔐 Level 3 — Auth & Security
 - [ ] Authentication Service (JWT)
 - [ ] Refresh Token Auth System
-- [ ] RBAC Role System
 - [ ] API Key Authentication
 - [ ] Rate Limiter Middleware
 - [ ] Login Attempt Limiter
 - [ ] Password Reset Service
-- [ ] OAuth Login Prototype
+- [ ] RBAC Role System
 - [ ] Session Management System
+- [ ] OAuth Login Prototype
 - [ ] Audit Log Service
 
 ---
 
-## 🗄 Level 3 — Database Driven Services
-
-- [ ] Blog Backend API
-- [ ] Comment System
-- [ ] Tagging System
+## ⚙️ Level 4 — Production Backend
+- [ ] Caching Layer (Redis)
+- [ ] Distributed Rate Limiter
+- [ ] Background Job Worker
 - [ ] Notification Service
 - [ ] Email Sender Service
-- [ ] API Analytics Service
-- [ ] Feature Flag Service
-- [ ] Background Job Worker
-- [ ] File Metadata Service
-- [ ] Search API
-
----
-
-## ⚙️ Level 4 — Production Backend
-
-- [ ] API Gateway
-- [ ] Caching Layer (Redis)
 - [ ] Webhook Receiver
 - [ ] Webhook Dispatcher
-- [ ] Config Server
+- [ ] API Analytics Service
+- [ ] Feature Flag Service
+- [ ] Search API
 - [ ] Logging Service
 - [ ] Metrics Server
-- [ ] Distributed Rate Limiter
+- [ ] Config Server
+- [ ] API Gateway
 - [ ] Job Queue System
 - [ ] Scheduler Service
 
 ---
 
 ## 🧱 Level 5 — Advanced Systems
-
 - [ ] Chat Backend (WebSockets)
 - [ ] Real-time Notification System
 - [ ] gRPC User Service
 - [ ] gRPC Auth Service
 - [ ] gRPC Product Service
 - [ ] gRPC Order Service
+- [ ] Event Streaming Service
 - [ ] Payment Service
 - [ ] Recommendation Service
-- [ ] Event Streaming Service
 - [ ] SaaS Multi-tenant Backend
 
 ---
 
 ## 🏁 Final Projects
-
 - [ ] SaaS Project Management Platform
 - [ ] Job and Internship Platform
 
-Stack:
+---
 
+Stack:
 - Go
 - Gin
 - PostgreSQL
@@ -100,5 +95,4 @@ Stack:
 ---
 
 ## 📈 Progress
-
-4 / 53 projects completed
+4 / 54 projects completed
