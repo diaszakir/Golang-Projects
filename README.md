@@ -5,7 +5,7 @@ Each project = a separate repository or folder.
 
 ---
 
-## 📦 Level 1 — Simple API + PostgreSQL
+## 📦 Level 1 — Simple API
 - [x] [Todo API](https://github.com/diaszakir/todoapp-golang-gin)
 - [x] [URL Shortener API](https://github.com/diaszakir/URL-Shortener-API-Go)
 - [x] [Base62](https://github.com/diaszakir/base62-go)
