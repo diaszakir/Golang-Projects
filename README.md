@@ -10,7 +10,7 @@ Each project = a separate repository or folder.
 - [x] [URL Shortener API](https://github.com/diaszakir/URL-Shortener-API-Go)
 - [x] [Base62](https://github.com/diaszakir/base62-go)
 - [x] [Pastebin API](https://github.com/diaszakir/Pastebin-API)
-- [ ] Bookmark Manager API
+- [x] [Bookmark Manager API](https://github.com/diaszakir/bookmark-manager-go)
 - [ ] Notes API with Search
 - [ ] Expense Tracker API
 - [ ] Habit Tracker API
@@ -86,6 +86,7 @@ Each project = a separate repository or folder.
 Stack:
 - Go
 - Gin
+- Encore
 - PostgreSQL
 - Redis
 - MongoDB
@@ -95,4 +96,4 @@ Stack:
 ---
 
 ## 📈 Progress
-4 / 54 projects completed
+5 / 54 projects completed
